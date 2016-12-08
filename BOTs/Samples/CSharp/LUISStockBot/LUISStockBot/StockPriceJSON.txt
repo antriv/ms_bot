@@ -1,0 +1,22 @@
+﻿{
+  "query": "what is the stock price for msft",
+  "intents": [
+    {
+      "intent": "StockPrice",
+      "score": 0.9999995
+    },
+    {
+      "intent": "None",
+      "score": 0.08622134
+    }
+  ],
+  "entities": [
+    {
+      "entity": "msft",
+      "type": "StockPrice",
+      "startIndex": 28,
+      "endIndex": 31,
+      "score": 0.9358729
+    }
+  ]
+}

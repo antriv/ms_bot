@@ -1,0 +1,48 @@
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\ServiceHelpers.dll.config
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\ServiceHelpers.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\ServiceHelpers.pdb
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\Microsoft.ProjectOxford.Emotion.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\obj\Debug\ServiceHelpers.csproj.App.config
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\obj\Debug\ServiceHelpers.csprojResolveAssemblyReference.cache
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\obj\Debug\ServiceHelpers.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\obj\Debug\ServiceHelpers.pdb
+C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\ServiceHelpers.dll.config
+C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\ServiceHelpers.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\ServiceHelpers.pdb
+C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\Microsoft.ProjectOxford.Emotion.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\obj\Debug\ServiceHelpers.csproj.App.config
+C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\obj\Debug\ServiceHelpers.csprojResolveAssemblyReference.cache
+C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\obj\Debug\ServiceHelpers.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\obj\Debug\ServiceHelpers.pdb
+C:\Users\antriv\Desktop\NUS\CB\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\ServiceHelpers.dll.config
+C:\Users\antriv\Desktop\NUS\CB\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\ServiceHelpers.dll
+C:\Users\antriv\Desktop\NUS\CB\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\ServiceHelpers.pdb
+C:\Users\antriv\Desktop\NUS\CB\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\antriv\Desktop\NUS\CB\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\Microsoft.ProjectOxford.Emotion.dll
+C:\Users\antriv\Desktop\NUS\CB\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\antriv\Desktop\NUS\CB\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\antriv\Desktop\NUS\CB\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\antriv\Desktop\NUS\CB\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\antriv\Desktop\NUS\CB\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\antriv\Desktop\NUS\CB\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\antriv\Desktop\NUS\CB\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\antriv\Desktop\NUS\CB\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\obj\Debug\ServiceHelpers.csproj.App.config
+C:\Users\antriv\Desktop\NUS\CB\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\obj\Debug\ServiceHelpers.csprojResolveAssemblyReference.cache
+C:\Users\antriv\Desktop\NUS\CB\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\obj\Debug\ServiceHelpers.dll
+C:\Users\antriv\Desktop\NUS\CB\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\obj\Debug\ServiceHelpers.pdb

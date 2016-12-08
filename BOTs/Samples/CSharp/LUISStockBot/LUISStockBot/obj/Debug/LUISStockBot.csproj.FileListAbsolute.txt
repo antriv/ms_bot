@@ -1,0 +1,78 @@
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Bot Application1.dll.config
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Bot Application1.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Bot Application1.pdb
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Autofac.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Chronic.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Newtonsoft.Json.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\System.Net.Http.Formatting.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\System.Web.Http.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\System.Web.Http.WebHost.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Autofac.xml
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Newtonsoft.Json.xml
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\System.Net.Http.Formatting.xml
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\System.Web.Http.xml
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\System.Web.Http.WebHost.xml
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\obj\Debug\LUISStockBot.csprojResolveAssemblyReference.cache
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\obj\Debug\Bot Application1.dll
+C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\obj\Debug\Bot Application1.pdb
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Bot Application1.dll.config
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Bot Application1.dll
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Bot Application1.pdb
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Autofac.dll
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Chronic.dll
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Newtonsoft.Json.dll
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\System.Net.Http.Formatting.dll
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\System.Web.Http.dll
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\System.Web.Http.WebHost.dll
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Autofac.xml
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\Newtonsoft.Json.xml
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\System.Net.Http.Formatting.xml
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\System.Web.Http.xml
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\System.Web.Http.WebHost.xml
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\obj\Debug\LUISStockBot.csprojResolveAssemblyReference.cache
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\obj\Debug\Bot Application1.dll
+C:\Users\antriv\Desktop\NUS\CB\BOTs\Samples\CSharp\LUISStockBot\LUISStockBot\obj\Debug\Bot Application1.pdb

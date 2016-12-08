@@ -1,0 +1,2 @@
+C:\Users\antriv\Desktop\NUS\CB\CognitiveServices\Samples-IntelligentKiosk\Kiosk\IntelligentKioskSample.csproj;x86
+C:\Users\antriv\Desktop\NUS\CB\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\ServiceHelpers.csproj;neutral
